@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+requests
+httpx
+beautifulsoup4
+wikipedia
+pydantic
+python-dotenv
+pyyaml
+sentence-transformers
+chromadb
+tavily-python
+
+#pip install -r requirements.txt to install the required packages for the SentinelAI project.
